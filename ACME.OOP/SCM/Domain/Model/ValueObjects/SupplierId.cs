@@ -1,4 +1,4 @@
-namespace ACME.OOP.SCM.Domain.Model.ValueObject;
+namespace ACME.OOP.SCM.Domain.Model.ValueObjects;
 /// <summary>
 /// Represents a value object for a supplier identifier. 
 /// </summary>

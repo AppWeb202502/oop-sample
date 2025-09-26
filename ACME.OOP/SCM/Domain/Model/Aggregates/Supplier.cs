@@ -1,4 +1,4 @@
-using ACME.OOP.SCM.Domain.Model.ValueObject;
+using ACME.OOP.SCM.Domain.Model.ValueObjects;
 using ACME.OOP.Shared.Domain.Model.ValueObjects;
 
 namespace ACME.OOP.SCM.Domain.Model.Aggregates;
